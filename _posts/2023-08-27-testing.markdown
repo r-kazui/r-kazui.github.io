@@ -1,0 +1,8 @@
+	---
+	layout:     post
+	title:      "Simpol Blogging, Adding New Posts1"
+	description: "How to add your first post. Simpol Theme blogging overview."
+	date:       2023-08-27 17:00:00
+	author:     "Scott Mathson"
+	header-img: img/posts/header-img/woman-typing-macbook.jpg
+	---
