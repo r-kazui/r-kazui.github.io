@@ -1,0 +1,67 @@
+---
+layout:     post
+title:      "1/100 Interviews: Product Manager"
+description: "Her first job was at a small tech startup as a #productmanager. The startup was acquired by a giant tech-related firm (everyone knows this company), which led to her continuing her #PM job there. She then went beyond Japan and successfully started another tech company's Trust and Safety office overseas. She is currently a PM in a tech startup back in Tokyo. 
+I reached out to her because I wanted to know more about #PM careers."
+date:       2023-08-28 17:00:00
+author:     "Risa kazui"
+header-img: assets/img/posts/header-img/woman-typing-macbook.jpg
+
+categories:
+  - Tips/Tricks
+---
+
+# 1/100 Interviews: Product Manager
+
+Her first job was at a small tech startup as a #productmanager. The startup was acquired by a giant tech-related firm (everyone knows this company), which led to her continuing her #PM job there. She then went beyond Japan and successfully started another tech company's Trust and Safety office overseas. She is currently a PM in a tech startup back in Tokyo. 
+I reached out to her because I wanted to know more about #PM careers.
+
+Questions
+“How do you get a PM job straight out of college and without technical training?”
+
+Most of the entry-level PMs in Japan start through internships at startups or VCs where you can see the growth and development of a product
+#Wantedly
+But it can feel unstable especially at the beginning of the career since you’d lose your job if someone more valuable comes in (with little experience, the probability of this is higher)
+
+“Why did you choose a startup as the entry-level career?”
+
+Working at a startup gave her a greater variety of work. While interning at Rakuten granted her a full-time position, she chose to work at a smaller startup where because of the smaller team, she would 
+1. Take on a generalist role and therefore 
+2. Have more exposure to all aspects of a company
+Working at a startup felt more meaningful, with a clearer purpose. Her dream was to increase the accessibility of books to all, and the startup, being an e-commerce company solely for books, felt like the perfect vehicle to fulfilling that personal goal.
+
+Reflection
+Her career decisions align with her personal mission
+From the beginning, she followed her own intuition. Despite being born and raised in Japan and graduating from a prestigious university, she still chose to enter a relatively small startup (a non-traditional career path in Japan). She always loved books and wanted to increase the number of readers in the world, so she chose the startup that would enable her purpose.
+
+Path of Prestige vs My Path
+This was and is something I still struggle with - the balance between what I see as prestigious (therefore ‘correct’) versus something that is valid just because ‘it feels right’ for me. Then again, feeling the novelty of something might spark some excitement as well, but that doesn’t mean it’s the right path for me. 
+
+Gifts that keep on giving
+Her story proves that when you find something you are truly passionate about, and then follow your intuition, it can lead to more extraordinary things. Her personal passion for improving the reader’s experience translated into her work as a PM, and then that empathy fostered at the job served her well in overall UX work in the tech field. 
+
+Humility
+While she did note the hype of the #PM job (high pay, high demand, we’ve all seen the Youtube videos) of the current job market, she emphasized that title aside, it is mind-bending work that she still genuinely enjoys. 
+
+**It's easy to add new posts**.
+
+1. Create a new file in the `_posts` folder
+2. Name the file, using this naming convention: `YYYY-MM-DD-post-name.markdown` (_or .md_)
+3. Write out the Front Matter (see below)
+
+As for the Front Matter, Simpol Theme incorporates and includes a few options. _Always ensure that your file's date and front matter date match up_. **Although highly recommended**, things like the `description` `author` and `header-img` are completely optional.
+
+**`layout` `date` and `title` should not be considered optional**.
+
+### Example: This Post's Front Matter:
+
+```
+	---
+	layout:     post
+	title:      "Simpol Blogging, Adding New Posts"
+	description: "How to add your first post. Simpol Theme blogging overview."
+	date:       2017-04-16 17:00:00
+	author:     "Scott Mathson"
+	header-img: img/posts/header-img/woman-typing-macbook.jpg
+	---
+```
