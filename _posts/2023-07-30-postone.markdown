@@ -3,7 +3,7 @@ layout:     post
 title:      "1/100 Interviews: Product Manager"
 description: "Her first job was at a small tech startup as a #productmanager. The startup was acquired by a giant tech-related firm (everyone knows this company), which led to her continuing her #PM job there. She then went beyond Japan and successfully started another tech company's Trust and Safety office overseas. She is currently a PM in a tech startup back in Tokyo. 
 I reached out to her because I wanted to know more about #PM careers."
-date:       2023-08-28 17:00:00
+date:       2023-07-30 17:00:00
 author:     "Risa kazui"
 header-img: assets/img/posts/header-img/woman-typing-macbook.jpg
 
@@ -48,6 +48,4 @@ Her story proves that when you find something you are truly passionate about, an
 
 While she did note the hype of the #PM job (high pay, high demand, we’ve all seen the Youtube videos) of the current job market, she emphasized that title aside, it is mind-bending work that she still genuinely enjoys. 
 
-	header-img: img/posts/header-img/woman-typing-macbook.jpg
-	---
-```
+
