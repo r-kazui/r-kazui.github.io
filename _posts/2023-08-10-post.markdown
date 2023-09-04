@@ -1,0 +1,39 @@
+---
+layout:     post
+title:      "2/100 Interviews: Talent Acquisition"
+description: "During the pandemic, she pivoted her career from a flight attendant to a #talentacquisition partner at one of the most successful #tech firms of the 21st century. She used her trilingual (English, Mandarin, Japanese) capabilities and experience in service to one-eighty her resume, get her foot in the door of the recruitment industry, build her network, and eventually land her current role recruiting some of the most important people at a company that has become indispensable to remote work as well as our everyday lives.
+
+I learned a lot about the #tech world, and ofc, #recruitment ."
+date:       2023-08-10 17:00:00
+author:     "Risa kazui"
+header-img: assets/img/posts/header-img/woman-typing-macbook.jpg
+
+categories:
+  - Tips/Tricks
+---
+
+During the pandemic, she pivoted her career from a flight attendant to a #talentacquisition partner at one of the most successful #tech firms of the 21st century. She used her trilingual (English, Mandarin, Japanese) capabilities and experience in service to one-eighty her resume, get her foot in the door of the recruitment industry, build her network, and eventually land her current role recruiting some of the most important people at a company that has become indispensable to remote work as well as our everyday lives.
+I learned a lot about the #tech world, and ofc, #recruitment.
+
+### Key Q’s
+**“How does recruitment usually work in tech for Japanese talent?”**
+Most Japanese companies don’t have talent acquisition teams and only rely on their human resources
+Many Japanese IT companies face language barriers when recruiting non-Japanese talent
+
+**“What advice do you have for job applicants?”**
+Could you do something different? Talent acquisition people go through tens, and hundreds of candidates 
+memorable interview examples
+when the candidate leads the interview
+when the candidate prepared a slideshow presentation on himself
+when the candidate appeared on Zoom with a self-designed background of the company
+
+Show your sincerity in applying for the position. Interest and keenness are sexy. 
+Tailor your resumes to the company and position to imply sincere eagerness
+Show potential. Recruiters often consider, “Can this person move up the ladder and better the company?” There are some people with great resumes but seems like they want to settle. This will not be good for new projects. 
+Consider your competition. If you’re in Singapore, chances are you are competing with expats from India and China. How do you differentiate yourself? What makes you special?
+
+### Additional Notes
+As cliche as it sounds, make yourself unique in fresh grad interviews 
+Gravitate toward the things in your daily life that make you happy (she enjoys finding and connecting people the most - applied for a talent acquisition job)
+Always list things you want to achieve by a certain age. If you want to be a PM by 28, start as a business analyst, transition into a semi-technical role, a technical support role, and so on. Go backward from the goal. 
+
