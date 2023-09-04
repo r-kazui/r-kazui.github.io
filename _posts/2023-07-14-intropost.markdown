@@ -2,7 +2,7 @@
 layout:     post
 title:      "Introduction to The 100 Interviews Project"
 description: "The journey to my dream career, and how I interviewed over 200 people."
-date:       2023-09-04 17:00:00
+date:       2023-07-14 17:00:00
 author:     "Risa Kazui"
 header-img: assets/img/posts/header-img/woman-typing-macbook.jpg
 
