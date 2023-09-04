@@ -3,12 +3,12 @@
   # When filling this file in, below, be sure to DELETE the "#" comments - example, greeting should look like - greeting: Hello, I'm Simpol.
 
 #content for nav.html
-title: Simpol Theme
-subtitle: Focus on the writing, the content.
+title: The 100 Interviews
+subtitle: 
 
 #content for index.html
   #Add your own info, deleting the comments "#". This data automatically writes to the Index page's mini, about section.
-greeting: #GREETING_GOES_HERE | default: Hello, I'm Simpol.
+greeting: The 100 Interviews
 logo_img: #LOGO_IMG_SRC_GOES_HERE | default: /assets/img/simpol-theme-square-writing-logo.png
 subgreeting_one: #SUBGREETING_ONE_GOES_HERE
 subgreeting_two: #SUBGREETING_TWO_GOES_HERE
