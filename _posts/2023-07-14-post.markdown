@@ -4,7 +4,7 @@ title:      "Introduction"
 description: "The 100 Interviews Project. The journey to my dream career, and how I interviewed over 200 people."
 date:       2023-07-14 17:00:00
 author:     "Risa Kazui"
-header-img: assets/img/posts/header-img/woman-typing-macbook.jpg
+header-img: assets/img/posts/header-img/introduction.png
 
 categories:
   - Tips/Tricks
