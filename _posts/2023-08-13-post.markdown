@@ -1,0 +1,53 @@
+---
+layout:     post
+title:      "5/100 Interviews: Banker, Consultant, Product Manager"
+description: "While she has all the titles parents hope for, #banker #consultant #PM , her journey to these three points was not intentional nor linear. All positions at companies you and I have heard of, these three jobs were a result of her slowly steering towards skillsets she liked or wanted. She was my first interviewee, and thanks to her, I discovered my own passion for learning about motivation, passion, and why we choose or stray from certain life paths for ourselves. 
+
+She spoke about #growthmindset, what helped her thrive in vastly different sectors, and ofc, what it means to be a good #productmanager."
+date:       2023-08-13 17:00:00
+author:     "Risa Kazui"
+header-img: assets/img/posts/header-img/banker.png
+
+categories:
+  - Tips/Tricks
+---
+
+While she has all the titles parents hope for, #banker #consultant #PM , her journey to these three points was not intentional nor linear. All positions at companies you and I have heard of, these three jobs were a result of her slowly steering towards skillsets she liked or wanted. She was my first interviewee, and thanks to her, I discovered my own passion for learning about motivation, passion, and why we choose or stray from certain life paths for ourselves. 
+
+She spoke about #growthmindset, what helped her thrive in vastly different sectors, and ofc, what it means to be a good #productmanager .
+
+<hr>
+
+### Theme 1: The importance of being adaptable and having a growth mindset.
+
+***“I’m a big believer in being adaptable and being willing to learn new things.”***
+
+Her career path has been anything but linear. She began her career in traditional banking before realizing her passion for the digital sector. Serendipitously, her application to a tech consulting firm from years ago resurfaced and she was recruited as a digital consultant, where she immersed herself in the industry. She then moved to a Big Four firm as a digital analyst. Seeking to contribute more to a product than just conceptualizing ideas, she applied to be a project manager at Revolut. However, the recruiter advised that she would be a better fit as a Product Owner, as she already had the necessary skills.
+
+Skillsets she had:
+Tech knowledge (from molding her career into the digital space)
+Corporate Comms (from handling biz stakeholders in retail banking)
+Users (from management consulting)
+
+She is now a PM at a startup that rewards users with crypto when they walk.  
+
+Her story is a testament to the importance of being adaptable and having a growth mindset. While it wasn’t an intentional yellow brick road to becoming a PM, this is a case where her interests and skills gained along the way led her to become a PM. 
+
+### Theme 2: The value of understanding the user.
+
+***“The best product managers are those who can empathize with users and understand their needs.”***
+
+The best product managers are those who can empathize with users. They need to understand what users want and need, and they need to be able to translate those needs into features and functionality.
+She developed her user empathy skills through a variety of projects, including UX design and research. She learned how to observe users, understand their pain points, and identify opportunities to improve their experience. Most importantly, she learned how to effectively absorb feedback and shape her mind into a fertile ground for solutions.
+
+<hr>
+
+### Additional Notes
+Learn and fall in love with the process. Not just the products.
+
+### My Personal Notes
+This was my first interview, and I didn't expect much. I cold-messaged her on LinkedIn, secretly hoping she wouldn't respond so I could give up easily, and say, Well I tried.
+
+But then, she did respond. This was the time when by chance, I learned the term "PM" (which I had to Google). Her willingness to share her career story opened up a magical door for me. I realized that I wanted to learn more about her career, her job, and her mindset.
+
+I never expected this to become a project, but it was the inception moment for me. I realized that if I had all the time and money in the world, I could just learn about people. What drives them? What are they passionate about? What keeps their flame going? How do they judge what interests them? Learning about what motivates people is my happy place.
