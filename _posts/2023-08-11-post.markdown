@@ -1,4 +1,4 @@
- ---
+---
 layout:     post
 title:      "3/100 Interviews: Entrepreneur, Founder"
 description: "DA third culture kid, living in different countries up until college, she took on an untraditional career path as a fresh grad. I had the privilege of witnessing her drive and ambition from afar while in college, appearing frequently on TV and in newspapers for her social activism. After dabbling in the #startup world, she went on to a #venturecapital firm, and is now endeavouring on her own #entrepreneurship journey playing a critical role in enabling quality pet care for all in Latin America. 
@@ -11,6 +11,7 @@ header-img: assets/img/posts/header-img/entrepreneur.png
 categories:
   - Tips/Tricks
 ---
+
 
 # Key Q’s
 
