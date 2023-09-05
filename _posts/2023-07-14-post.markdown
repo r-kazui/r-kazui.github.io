@@ -10,8 +10,6 @@ categories:
   - Tips/Tricks
 ---
 
-<img src= assets/img/posts/header-img/introduction.png> 
-
 In May 2022, I was lost. As a senior in undergrad, post-studying abroad at #ucl , my plans for a master's degree were no longer as appealing, and I was already an entire year behind on finding a career for post-grad. I saw friends starting to get offers - endless posts of “I am thrilled to announce…” on LinkedIn. I remember feeling like I was falling behind, but also not really knowing what the solution was. I felt like I was never going to become an actual working adult.
 
 I think one of the reasons why job-seeking can be so daunting is because most of us, even after four years of college, often don’t know what we want to do. Some of us are aware of our “dream jobs” at a young age, but I didn’t. How do I even find a job? LinkedIn? Agent? The recruiting posts would say things like “See if this job is a good fit!” but while the company seemed like knew what it wanted, I had no clue what I wanted. I remember reading the descriptions and thinking “Oh, I COULD do that” for almost everything, but I would feel nothing worth the motivation to even apply. Titles like “project manager” and “business analyst” had the allure of prestige, but meant nothing to me, since I didn’t know what those jobs actually meant. 
