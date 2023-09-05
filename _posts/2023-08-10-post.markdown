@@ -6,7 +6,7 @@ description: "During the pandemic, she pivoted her career from a flight attendan
 I learned a lot about the #tech world, and ofc, #recruitment ."
 date:       2023-08-10 17:00:00
 author:     "Risa kazui"
-header-img: assets/img/posts/header-img/woman-typing-macbook.jpg
+header-img: assets/img/posts/header-img/talent.png
 
 categories:
   - Tips/Tricks
