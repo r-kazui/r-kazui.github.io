@@ -5,7 +5,7 @@ description: "Her first job was at a small tech startup as a #productmanager. Th
 I reached out to her because I wanted to know more about #PM careers."
 date:       2023-07-30 17:00:00
 author:     "Risa kazui"
-header-img: assets/img/posts/header-img/woman-typing-macbook.jpg
+header-img: assets/img/posts/header-img/productmanager.png
 
 categories:
   - Tips/Tricks
