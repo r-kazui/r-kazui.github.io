@@ -4,7 +4,7 @@
 
 #content for nav.html
 title: The 100 Interviews
-subtitle: The Voices of Real People
+subtitle: The Voices of Real Working Professionals 
 
 #content for index.html
   #Add your own info, deleting the comments "#". This data automatically writes to the Index page's mini, about section.
@@ -37,21 +37,19 @@ footer_link_three_link: #FOOTER_LINK_GOES_HERE
 
 baseurl: ""
 google_tracking_id: #deletme-Google Analytics Tracking ID- UA-XXXXXXXX-X
-copyright_name: Mathson Design, LLC
+copyright_name: Risa kazui
 
 # SEO data (https://github.com/jekyll/jekyll-seo-tag)
 logo: /assets/img/simpol-favicon.png
-description: Simpol Theme is a clean, minimal website theme all about the writing, the content. Currently available for Jekyll. Perfect for blogging.
+description: The Voices of Real Working Professionals
 author:
-  name: Simpol Theme
+  name: The 100 Interviews
   email: simpol@scottmathson.com
-  twitter: simpoltheme
 
 social:
   name: Simpol Theme
   links:
-    - https://twitter.com/simpoltheme
-    - https://github.com/simpol-theme
+    - https://www.linkedin.com/in/risa-kazui-6b196b17a/recent-activity/all/
 
 # Build settings
 permalink: pretty
