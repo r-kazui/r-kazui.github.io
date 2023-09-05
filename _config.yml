@@ -26,8 +26,8 @@ nav_link_three_name: #NAV_NAME_GOES_HERE
 nav_link_three_link: #NAV_LINK_GOES_HERE
 
 #content for footer.html (shown on mobile) footer navigation links
-footer_link_one_name: #FOOTER_NAME_GOES_HERE
-footer_link_one_link: #FOOTER_LINK_GOES_HERE
+footer_link_one_name: LinkedIn
+footer_link_one_link: https://www.linkedin.com/in/risa-kazui-6b196b17a/recent-activity/all/
 
 footer_link_two_name: Categories
 footer_link_two_link: "/categories"
