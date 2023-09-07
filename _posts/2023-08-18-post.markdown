@@ -1,0 +1,77 @@
+---
+layout:     post
+title:      "10/100 Interviews: Head of Partnerships SG The Sandbox, Author, Co-Founder"
+description: "Belinda is a founder of multiple Web3 startups, author, and lecturer, and has dedicated her career to democratizing knowledge and access to blockchain technology. She has spoken at countless blockchain events in Southeast Asia, which is where I first had the privilege of meeting her. She is currently the head of partnerships at The Sandbox, a company that envisions a user-generated virtual gaming world. She is also the Singapore representative of Women in Blockchain Asia. 
+
+We spoke about #blockchain, #femalefounders, and #web3. 
+
+TLDR;
+
+The Web3 industry is attracting more ‘heavyweight’ players from traditional industries
+
+It is comparably harder to get funding as a female founder
+
+Of the number of startup deals in SE Asia, 76% were startups without a single female founder"
+date:       2023-08-18 17:00:00
+author:     "Risa Kazui"
+header-img: assets/img/posts/header-img/belinda.png
+
+categories:
+  - Tips/Tricks
+---
+Belinda is a founder of multiple Web3 startups, author, and lecturer, and has dedicated her career to democratizing knowledge and access to blockchain technology. She has spoken at countless blockchain events in Southeast Asia, which is where I first had the privilege of meeting her. She is currently the head of partnerships at [The Sandbox](https://www.sandbox.game/undefined/), a company that envisions a user-generated virtual gaming world. She is also the Singapore representative of [Women in Blockchain Asia](https://womeninblockchain.asia/). 
+
+We spoke about #blockchain, #femalefounders, and #web3. 
+
+TLDR;
+:one:
+The Web3 industry is attracting more ‘heavyweight’ players from traditional industries
+
+:two: 
+It is comparably harder to get funding as a female founder
+
+:three:
+Of the number of startup deals in SE Asia, 76% were startups without a single female founder
+
+<hr>
+
+### Theme 1: The People the Blockchain/Web3 Industry Attracts is Changing
+
+*“I entered this world in the early 2010s, where the majority were degens. Now, it’s different.”*
+
+The Web3 industry is unique in three aspects.
+
+* Newness: Even experts only have around 10 years of experience, everyone is learning
+
+* Volatility: The market fluctuates with the value of crypto, volatile asset prices
+
+* Flexibility: Blockchain is a common denominator for industries (blockchain X healthcare, blockchain X finance, blockchain X education, etc.)
+
+When the technology first came out, and application was still limited, the industry attracted many ‘degenerates’, also known as speculators who place money on bets without proper knowledge or research. The loudest voices during this time were evangelists and prophets for pure blockchain technology.
+
+
+However, Belinda explains that this has changed. Now the industry sees an increasing number of ‘heavyweights’, those in traditional industries wanting to get their own bites of the web3 cake. Banks, creators, consultants, and lawyers, have all found their niches.
+Web3 is now structured, with enough players to categorize the companies into application segments. 
+
+Belinda notes that this goes for many technologies, where it kicks off with hype, gaining popularity and funding, the hype dies and execution starts, where the question becomes not how to start but how to stay. 
+
+### Theme 2: Being a Female in the Entrepreneur and Blockchain Space
+
+*“In Southeast Asia, startups founded solely by women accounted for only 0.6% of capital invested in the region in 2021.” (cred. Nikkei Asia, Dec 2022)*
+
+Belinda co-founded three blockchain startups and has dedicated her career to demystifying a career in blockchain, particularly for women. This is because she has noticed that especially in the blockchain industry, it is incomparably harder to get funding as a female founder. 
+
+In Seed Round and Pre Series A funding, projects are still in their pre-conception phases, venture capitals and investors choose startups to fund based on the founder’s character. Belinda has seen many women go through pitches only to be asked irrelevant questions such as ‘Are you married?’, ‘Do you have kids?’, questions that men in the room were not asked. 
+Moreover, this funding skew is also due to the fact that most VCs are led by men, and the ‘Boy’s Club’ dynamic between male investors and founders makes it harder for women to build relationships of the same depth. 
+
+Belinda strives to change this, authoring BlockLass, a book that introduces the technology and industry in layman’s terms, featuring career stories of women in the blockchain space, and is currently a Singapore representative for Women in Blockchain Asia. She also is planning to start a fund that funds female founders. 
+
+<hr>
+
+### My Personal Notes
+I attended my first blockchain conference in 2022, and I remember feeling so intimidated. Everyone seemed to know everyone, and then I realized that ‘everyone’ was all men. The only non-men were either the really beautiful women with expensive handbags and red-soled Louboutins clutching onto the arm of their founder partner (a man of course), OR the women in metallic mini-dresses in mid-December waving placards that said BTSE outside the conference hall (I’m assuming that they were promoting the company). I probably saw less than 5 female founders in a conference of 1000+ people. 
+Unfortunately, while metallic mini-dresses are not always guaranteed at blockchain events, audiences that are predominantly male are a trend that I’ve seen in the handful of Web3 events I’ve attended. 
+And unfortunately x2, this seems to be the reality for the tech industry as well. I recently started reading Brotopia by [Emily Chang](https://www.youtube.com/results?search_query=emily+chang) (her Bloomberg interviews with Sam Altman, Bill Gurley, and the D’Amelio’s even are so good), where she explains the difficulties of being a woman in tech when investors “take meetings in hot tubs and network at sex parties”. 
+It makes me wonder about the potential for the blockchain market and tech as a whole if the gender ratio of designers, marketers, and engineers more accurately reflected the consumer gender ratio. I think I once heard that stay-at-home moms accounted for the majority of in-app profits of mobile games. If they were designed by women, what would change?
+
+Nikkei Asia article on Female Founders in Asia [link](https://asia.nikkei.com/Spotlight/Women-s-Wealth/From-Singapore-to-Silicon-Valley-female-founders-fight-for-funds)
