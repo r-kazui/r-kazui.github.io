@@ -6,7 +6,7 @@ description: "She had never lived in Japan until after she graduated college, bu
 We spoke about #learning&development, #tech, and making sense of your career as you go!"
 date:       2023-08-16 17:00:00
 author:     "Risa Kazui"
-header-img: assets/img/posts/header-img/banker.png
+header-img: assets/img/posts/header-img/ld.png
 
 categories:
   - Tips/Tricks
