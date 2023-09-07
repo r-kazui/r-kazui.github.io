@@ -1,0 +1,66 @@
+---
+layout:     post
+title:      "7/100 Interviews: Product Manager, Startup, Career Coordinate Plane"
+description: "Riku has a bachelor’s in #business and self-taught technical skills, but his desire to follow his intuition and curiosity landed him his extensive career as a #productmanager. He sees his career as something that is genuinely controllable by himself, and jobs as opportunities to learn. I admire his #self-awareness and how intentional he is about everything he does, as well as his flare for asking the most random but profound questions. Riku is currently a #PM at climate tech startup, Zeroboard. 
+
+We spoke about #success, #goal-setting, and #Paulgraham."
+date:       2023-08-15 17:00:00
+author:     "Risa Kazui"
+header-img: assets/img/posts/header-img/howtochoose.png
+
+categories:
+  - Tips/Tricks
+---
+
+Riku has a bachelor’s in #business and self-taught technical skills, but his desire to follow his intuition and curiosity landed him his extensive career as a #productmanager. He sees his career as something that is genuinely controllable by himself, and jobs as opportunities to learn. I admire his #self-awareness and how intentional he is about everything he does, as well as his flare for asking the most random but profound questions. Riku is currently a #PM at climate tech startup, Zeroboard. 
+
+We spoke about #success, #goal-setting, and #Paulgraham.
+
+<hr>
+
+### Theme 1: A life that is guided by interests, rather than by goals.
+
+***"I haven't uncovered what I want to do deep down inside yet, but I'm always exploring."***
+
+Within the first five minutes of speaking to Riku, you could sense that he has a bottomless reservoir of curiosity. He knows so much about so many things, but in an attitude so far from pretentiousness, that you can’t help but marvel at how he marvels at the world.
+
+He credits his childlike wonder to his parents, particularly his mother who actively fostered it, always bringing him books about the things he found interesting at that point in time; if asked questions about fish, his mom would lend him a book about fish.
+
+Being guided by his interests is what also shaped his career. His initial job at a startup was because it seemed purely more interesting. His drastic career shift from business development to software engineering was also because focusing on the product seemed more interesting. This drove him to seek SWE mentorship and resources to learn even more. He met a lot of product managers as a full-stack SWE and then eventually switched over because it seemed more interesting. 
+
+Even now, while he has enjoyed, in his own words, being a sponge, learning and absorbing every step of his career, he is still on the lookout for a job that gives him that visceral sense of fulfillment. And in order to find that, he continues to allow his curiosity to run wild and be guided by his interests. 
+
+
+### Theme 2: Your definition of success should be decided by yourself.
+
+***“I want to do great work.”***
+
+Even to this day, it is rare for a fresh grad in Japan to have a job NOT in a big corp. While Riku had occasionally doubted his career decisions, especially during tech layoffs and a crypto bear market in Japan, he still follows the same mentality when it comes to building a career. 
+
+One thing he continues to refer back to in these times is the essay, How To Do Great Work by Paul Graham (link below). Paul is known for co-founding Y Combinator, and his experience screening and mentoring thousands of founders and leaders shaping our world today offers insight into what differentiates great work from ordinary work. Paul notes that the greatest people of our time are all curious people, constantly asking questions about the things that pique their interests. 
+
+While at times of disillusionment, it can be easy to favor others’ lives over ours, to Riku, Paul’s wisdom also means in turn that, in environments where curiosity is tamed and questions are hardly answered, great work is harder to come by. 
+Therefore although startups hardly give off an effect where people widen their eyes and jaws drop in admiration, to him and many, it is a place that is more likely to foster innovation and originality. In other words, the biosphere that would cultivate his path to success, of achieving meaningful and ‘great’ work. 
+
+He also noted that our interests and definitions of ‘great’ are fluid, as they ebb and flow with life events and self-growth. And it’s okay. But while,
+
+“Competition can be an effective motivator, but don't let it choose the problem for you; don't let yourself get drawn into chasing something just because others are. In fact, don't let competitors make you do anything much more specific than work harder.”
+
+Don’t let others define your success. 
+
+### Theme 3: Choose the job you feel is the best fit. 
+
+***“When choosing a job, I look at the macro and the micro.”***
+
+Aside from the personal interest meter for choosing a job, he also goes through a constructive analysis of the options. Like in the image above, he first evaluates the macro conditions: What is the condition of the labor market? The economy? Geopolitics? The health of industries? Perhaps an unstable economy could increase the risks of seizing operations and layoffs and bigger corporations are a more appealing choice. Then the micro: Is this position interesting to me? Do I like my future colleagues? Does this company’s values align with mine?
+Categorizing the qualms effectively lays out the pros and cons in much more digestible bites. 
+
+<hr>
+
+### My Personal Notes
+While ‘interest’ is often thrown around casually, seemingly without burden or commitment - ‘I’m interested in baking’ ‘I’m interested in crypto’ ‘I’m interested in her’ - it seems like it is also a microcosm of a potential path to true fulfillment. 
+While I still do fantasize about my success story and visualize the sparkly woman I aspire to be, I guess it’s as important to acknowledge the bite-size strides every day, which is to honor my curiosity and interests, and (I’m a broken record at this point) stay true to my authentic passions. 
+
+I wonder why it’s so hard to do this in your early 20s. Why are we so drawn to other people’s definitions of success? Why does this override ours?
+
+Great Work by Paul Graham <a href="http://www.paulgraham.com/greatwork.html">link</a>
