@@ -1,0 +1,60 @@
+---
+layout:     post
+title:      "8/100 Interviews: What is Learning & Development, and why is big tech investing in it?"
+description: "She had never lived in Japan until after she graduated college, but her first post-grad job required her to use formal #Japanese (‘keigo’) every single day. But this was also the job that kickstarted her career in #tech. She found her calling in Learning & Development, and finds joy in the people-facing aspect of #L&D. It’s always so exciting to learn about jobs I had never heard of before!
+
+We spoke about #learning&development, #tech, and making sense of your career as you go!"
+date:       2023-08-16 17:00:00
+author:     "Risa Kazui"
+header-img: assets/img/posts/header-img/banker.png
+
+categories:
+  - Tips/Tricks
+---
+
+She had never lived in Japan until after she graduated college, but her first post-grad job required her to use formal #Japanese (‘keigo’) every single day. But this was also the job that kickstarted her career in #tech. She found her calling in Learning & Development, and finds joy in the people-facing aspect of #L&D. It’s always so exciting to learn about jobs I had never heard of before!
+
+We spoke about #learning&development, #tech, and making sense of your career as you go!
+
+<hr>
+
+## Theme 1: Learning and Development
+
+* *“L&D is a role where you talk to a lot of people from all departments. It is critical to the growth of a company.”* *
+
+Learning and development (L&D) by definition is,
+
+***A function within an organization that is responsible for empowering employees’ growth and developing their knowledge, skills, and capabilities to drive better business performance.***
+
+I had never heard of the term "L&D" before this interview. The interviewee described it as a role with two facets. On the one hand, it involves empowering the people in the company to do their best work. On the other hand, it requires a lot of problem-solving and calculation in order to upskill the people in the company and reap greater revenue.
+
+My interviewee believes that her strengths are facilitating, presenting, attention to detail, and communication. She feels that L&D is the role where her work has been the most impactful. 
+
+## Theme 2: Follow intuition and connect the dots in hindsight 
+
+* *"When job-seeking, I've only set one condition for myself: the company must be global-minded. Other than that, I've been completely open to all sorts of opportunities."* *
+
+My interviewee's first full-time job after graduation was as a rotational associate at Apple. For two years, she rotated through different positions, experiencing all aspects of the business. She joked that she had probably done the job of any person wearing an Apple T-shirt at the store.
+
+This job was particularly challenging for her because she had spent most of her upbringing in the United States and was now working in a customer-facing role in Japan, where she had to learn how to use formal Japanese ("keigo") every day. Although she emphasizes that she would never voluntarily go back to retail, she now sees how this experience made sense in hindsight.
+
+Her retail job equipped her with the business Japanese skills she needed for her next job at a big tech company. This job allowed her to discover L&D, and her subsequent role at a startup helped her to find what specifically within L&D makes her work feel meaningful.
+
+At every stage of her career, my interviewee has reflected on her strengths, how she is using them, and whether they align with what she enjoys doing. If any of the answers to these questions is "no," she asks herself how she can mold her work so that one of them becomes a "yes." This is the self-evaluation process that she believes will lead her to greater fulfillment. 
+
+<hr>
+
+## My Personal Notes
+L&D has become increasingly valued in companies over the last decade, as the workforce has been evolving due to a number of factors, such as increasing competition, rising complexity, and the digital revolution. This has made reskilling and upskilling essential for employees to stay competitive. This is where L&D, a function within a company where its primary responsibility is the development of people to fulfill key business priorities, has become incredibly critical. 
+
+According to a McKinsey report, the 5 key areas of L&D are:
+
+**Attract and retain talent
+Develop people capabilities
+Create a value-based culture
+Build an employer brand
+Motivate and engage employees**
+
+I guess it makes sense. The credibility one gets from belonging to a certain company, (the bias of hiring someone who has ‘ex-Meta’ on their LinkedIn profile as opposed to one you haven’t heard of) comes from the assumption that having a certain job experience puts you above a certain bar. I just never knew that this was an actual thing that companies invested in. FASCINATING!
+
+McKinsey Article on L&D [LINK}(https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-essential-components-of-a-successful-l-and-d-strategy)
