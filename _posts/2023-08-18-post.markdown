@@ -22,16 +22,14 @@ categories:
 Belinda is a founder of multiple Web3 startups, author, and lecturer, and has dedicated her career to democratizing knowledge and access to blockchain technology. She has spoken at countless blockchain events in Southeast Asia, which is where I first had the privilege of meeting her. She is currently the head of partnerships at [The Sandbox](https://www.sandbox.game/undefined/), a company that envisions a user-generated virtual gaming world. She is also the Singapore representative of [Women in Blockchain Asia](https://womeninblockchain.asia/). 
 
 We spoke about #blockchain, #femalefounders, and #web3. 
-
+```
 TLDR;
-:one:
-The Web3 industry is attracting more ‘heavyweight’ players from traditional industries
+* The Web3 industry is attracting more ‘heavyweight’ players from traditional industries
 
-:two: 
-It is comparably harder to get funding as a female founder
+* It is comparably harder to get funding as a female founder
 
-:three:
-Of the number of startup deals in SE Asia, 76% were startups without a single female founder
+* Of the number of startup deals in SE Asia, 76% were startups without a single female founder
+```
 
 <hr>
 
