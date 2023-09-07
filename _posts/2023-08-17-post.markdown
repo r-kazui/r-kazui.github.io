@@ -1,0 +1,81 @@
+---
+layout:     post
+title:      "9/100 Interviews: Product Strategist, Freelance, Founder"
+description: "On Helena’s LinkedIn page, her ‘Experience’ section features 25 roles she’s taken on since she graduated high school. Her career spans multiple industries, having worked during both her Bachelor’s and Master’s degrees. She was also previously a co-founder in the sustainability space. Helena is currently based in London, as a #ProductStrategist at @Worksome.
+
+TLDR; 
+
+:one:Freelancing became popular with COVID but then lagged with the worsening economy
+
+:two:Freelancing in the U.S. is expected to increase from 70 to 90 million people by 2028
+
+:three:Helena created her dream job during a meeting with the CEO"
+date:       2023-08-17 17:00:00
+author:     "Risa Kazui"
+header-img: assets/img/posts/header-img/helena.png
+
+categories:
+  - Tips/Tricks
+---
+On Helena’s LinkedIn page, her ‘Experience’ section features 25 roles she’s taken on since she graduated high school. Her career spans multiple industries, having worked during both her Bachelor’s and Master’s degrees. She was also previously a co-founder in the sustainability space. Helena is currently based in London, as a #ProductStrategist at [@Worksome](https://www.worksome.com/).
+
+TLDR; 
+
+:one:Freelancing became popular with COVID but then lagged with the worsening economy
+
+:two:Freelancing in the U.S. is expected to increase from 70 to 90 million people by 2028
+
+:three:Helena created her dream job during a meeting with the CEO
+
+<hr>
+
+### Theme 1: Freelancing Market in 2023
+
+*“In the past few years, freelancing has grown in popularity with the pandemic and also the boom of the gig economy. However, we’ve seen a change in this recently with the current condition of the economy. ”*
+
+Helena is a Product Strategist at Worksome, a company that offers services and technology to enable seamless outsourcing for companies. For example, if a bank is working on a digital asset project, it might outsource a crypto expert for the duration of the project. Worksome would ease the administrative process, such as compliance, contracts, payroll, etc. by providing their software and technology. 
+
+
+
+Greater work mobility, less income tax, higher likelihood of getting hired in the first place, were some of the reasons why the number of freelancers grew exponentially globally during the pandemic. And in turn, with the growth in demand, Workspace as a company also grew. 
+
+
+
+This trend has been teetering over the last few months. 
+Many companies currently run on tighter budgets, and hence many are trying to stay self-sufficient, straying from additional spending through outsourcing. 
+
+But the future appears optimistic for freelancing. In 2022, freelancers in the United States amounted to 70 million people. This number is expected to increase to 90 million by 2028. This will account for more than half of the United States workforce. Even Google is comprised of 54 percent contractors/freelancers to 46 percent full-timers. I even spoke to a friend today and she said the media company she works at is mostly freelancers apart from the handful of core members. It seems like freelancing is here to stay. It seems to be growing particularly in Dubai, Australia, India, and increasingly in South East Asia. 
+ 
+
+
+Helena emphasizes the fact that freelancing as a default mode of work is a modern phenomenon and that there are still many pitfalls the public needs to be aware of. Less income tax funneled to the government, a majority population without pension or healthcare, and a lessening of workplace culture, are just some of the consequences. However, governments and companies have been noticing this, such as the Australian government recently making healthcare mandatory for all workers. 
+
+### Theme 2: How to Design a Dream Job
+
+*“I spoke to people from all departments and roles and presented my dream job to my CEO.”*
+
+Throughout her studies, Helena has kept herself busy, balancing work and academics in both her undergrad and master’s. It was while studying at Copenhagen Business School that she took on a position at Worksome. During her contract, she traveled to the London, Copenhagen, and New York offices. When her degree was nearing an end, she faced the split path of a PhD or joining full-time at Worksome. Wondering what her future would look like at the company, she began to chat with her colleagues. Hearing their needs and aspirations for the company, she realized that she could offer a solution to it. 
+
+So she started preparing a deck on her solution. Little did she know she was actually outlining her dream job. She hypothesized the go-to-market strategies, the stakeholders, what would go right and wrong, everything, and then presented it to the CEO.
+
+The CEO responded you’re describing the role of a global expansion manager, correct?
+This was how she landed the full-time position where she executed her solution. 
+
+She credits this turn of events to her ability to bounce to offices and see the company from a unique perspective, Helena notes that the key is to talk to people. Understand what they want and see in the company, and somehow design a solution that seems exciting to you. 
+
+While she has changed roles into a product strategist, her innovative streak is still fiery. She is responsible for building and diversifying revenue streams to better the entire company. 
+
+
+<hr>
+
+### My Personal Notes
+It was a wonderful chat with Helena. Despite having accomplished so much - she was a founder in the sustainability space, traveled extensively since college, and worked in a myriad of industries spanning from UNICEF to tech - her attitude towards everything was as if she had so much more to learn. From her perspective, great work comes from great change and a great team. Land for ideas is most fertile when you are surrounded by stimuli and also people who want to do great, so she is mindful of being around people who inspire her. 
+Especially with her experience of crafting her dream job, it really just goes to show that the greatest ideas often come when you least expect and want them. So many Y Combinator mentors emphasize this too, Don’t go trying to think of a startup idea by trying to think of a startup idea, because usually those will turn out to be bad. Instead, talk to people, recognize challenges, and craft solutions. Those are usually the greatest ideas. 
+
+<hr>
+
+Statista on # of freelancers in the U.S. [link](https://www.statista.com/statistics/921593/gig-economy-number-of-freelancers-us/)
+
+Google's ratio of freelance vs full-timers [link](https://www.allworknow.com/google-has-more-freelancers-than-full-time-employees/#:~:text=Yes%2C%20you%20read%20that%20headline,payroll%2C%20which%20was%20around%20102%2C000.) 
+
+Pew Research report on gig work [link](https://www.pewresearch.org/internet/2021/12/08/the-state-of-gig-work-in-2021/)
