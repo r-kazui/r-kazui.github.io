@@ -67,6 +67,7 @@ plugins:
 - jekyll-seo-tag
 - jekyll-feed
 - jekyll-paginate
+- jemoji
 exclude:
 - Gemfile
 - Gemfile.lock
