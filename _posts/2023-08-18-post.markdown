@@ -19,7 +19,7 @@ header-img: assets/img/posts/header-img/belinda.png
 categories:
   - Tips/Tricks
 ---
-![belinda's article picture](assets/img/posts/header-img/belinda.png)
+<img src="./master/assets/img/posts/header-img/belinda.png" alt="Belinda">
  
 Belinda is a founder of multiple Web3 startups, author, and lecturer, and has dedicated her career to democratizing knowledge and access to blockchain technology. She has spoken at countless blockchain events in Southeast Asia, which is where I first had the privilege of meeting her. She is currently the head of partnerships at [The Sandbox](https://www.sandbox.game/undefined/), a company that envisions a user-generated virtual gaming world. She is also the Singapore representative of [Women in Blockchain Asia](https://womeninblockchain.asia/). 
 
