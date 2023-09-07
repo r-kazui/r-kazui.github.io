@@ -5,11 +5,14 @@ description: "On Helena’s LinkedIn page, her ‘Experience’ section features
 
 TLDR; 
 
-:one:Freelancing became popular with COVID but then lagged with the worsening economy
+:one:
+Freelancing became popular with COVID but then lagged with the worsening economy
 
-:two:Freelancing in the U.S. is expected to increase from 70 to 90 million people by 2028
+:two:
+Freelancing in the U.S. is expected to increase from 70 to 90 million people by 2028
 
-:three:Helena created her dream job during a meeting with the CEO"
+:three:
+Helena created her dream job during a meeting with the CEO"
 date:       2023-08-17 17:00:00
 author:     "Risa Kazui"
 header-img: assets/img/posts/header-img/helena.png
@@ -21,11 +24,14 @@ On Helena’s LinkedIn page, her ‘Experience’ section features 25 roles she�
 
 TLDR; 
 
-:one:Freelancing became popular with COVID but then lagged with the worsening economy
+:one:
+Freelancing became popular with COVID but then lagged with the worsening economy
 
-:two:Freelancing in the U.S. is expected to increase from 70 to 90 million people by 2028
+:two:
+Freelancing in the U.S. is expected to increase from 70 to 90 million people by 2028
 
-:three:Helena created her dream job during a meeting with the CEO
+:three:
+Helena created her dream job during a meeting with the CEO
 
 <hr>
 
