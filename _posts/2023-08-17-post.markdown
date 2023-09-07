@@ -2,17 +2,13 @@
 layout:     post
 title:      "9/100 Interviews: Product Strategist, Freelance, Founder"
 description: "On Helena’s LinkedIn page, her ‘Experience’ section features 25 roles she’s taken on since she graduated high school. Her career spans multiple industries, having worked during both her Bachelor’s and Master’s degrees. She was also previously a co-founder in the sustainability space. Helena is currently based in London, as a #ProductStrategist at @Worksome.
-
 TLDR; 
 
-:one:
-Freelancing became popular with COVID but then lagged with the worsening economy
+* Freelancing became popular with COVID but then lagged with the worsening economy
 
-:two:
-Freelancing in the U.S. is expected to increase from 70 to 90 million people by 2028
+* Freelancing in the U.S. is expected to increase from 70 to 90 million people by 2028
 
-:three:
-Helena created her dream job during a meeting with the CEO"
+* Helena created her dream job during a meeting with the CEO"
 date:       2023-08-17 17:00:00
 author:     "Risa Kazui"
 header-img: assets/img/posts/header-img/helena.png
@@ -22,17 +18,15 @@ categories:
 ---
 On Helena’s LinkedIn page, her ‘Experience’ section features 25 roles she’s taken on since she graduated high school. Her career spans multiple industries, having worked during both her Bachelor’s and Master’s degrees. She was also previously a co-founder in the sustainability space. Helena is currently based in London, as a #ProductStrategist at [@Worksome](https://www.worksome.com/).
 
+```
 TLDR; 
 
-:one:
-Freelancing became popular with COVID but then lagged with the worsening economy
+* Freelancing became popular with COVID but then lagged with the worsening economy
 
-:two:
-Freelancing in the U.S. is expected to increase from 70 to 90 million people by 2028
+* Freelancing in the U.S. is expected to increase from 70 to 90 million people by 2028
 
-:three:
-Helena created her dream job during a meeting with the CEO
-
+* Helena created her dream job during a meeting with the CEO
+```
 <hr>
 
 ### Theme 1: Freelancing Market in 2023
