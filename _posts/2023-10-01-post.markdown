@@ -1,0 +1,58 @@
+---
+layout:     post
+title:      "11/100 Interviews: Sales Manager, Big Tech, Engineer"
+description: "He landed his post-grad career as an engineer at a SaaS company after interviewing at the Boston Career Forum. There he built his own product and got his first taste of what it’s like to work in sales. He was the youngest Sales Manager to ever be hired at the global IT company where he currently works and spearheads sales for SMEs. 
+I have kept this interviewee anonymous for privacy reasons.
+
+TLDR;
+* Interviewers have major icks too; best to avoid them by staying honest
+* Sales is crunching numbers but also a lot of talking and collaborating
+* A big perk of working in sales is the amount of internal networking you get to do, which is helpful while you're at the firm but also for future career changes"
+
+date:       2023-10-01 17:00:00
+author:     "Risa Kazui"
+header-img: assets/img/posts/header-img/hiroki.png
+
+categories:
+  - Tips/Tricks
+---
+He landed his post-grad career as an engineer at a SaaS company after interviewing at the Boston Career Forum. There he built his own product and got his first taste of what it’s like to work in sales. He was the youngest Sales Manager to ever be hired at the global IT company where he currently works and spearheads sales for SMEs. 
+I have kept this interviewee anonymous for privacy reasons.
+
+```
+TLDR;
+* Interviewers have major icks too; best to avoid them by staying honest
+
+* Sales is crunching numbers but also a lot of talking and collaborating
+
+* A big perk of working in sales is the amount of internal networking you get to do, which is helpful while you're at the firm but also for future career changes
+```
+<hr>
+
+## What is interviewing like at Big Tech?
+
+This interviewee has interviewed many candidates spanning from fresh grads to IT veterans. From going through hundreds of interviews, these are his main takeaways:
+
+*Look good, but don’t fake it.* 
+It is inevitable that candidates try to appear ‘perfect’ in interviews. But know that this first impression is also what your bosses will expect of you. People often quit because they can’t manage these expectations. While showing a good face on LinkedIn and resumes is still critical - being authentic and realistic even during the interview is the key to having a sustainable relationship with your job. 
+
+*Best interviews are conversations*
+Major ick is those who ask questions for the sake of asking a question. Ask open-ended questions and be proactive in setting the atmosphere. Allow the interviewer to envision what it would be like to work with you.
+
+
+## What is it like to work in Sales in a big tech company?
+
+A lot of people seem to think that Sales is a really stressful job. It is a lot of pressure but it actually just depends on whether your personality is a good fit. This interviewee characterized himself as a people-person with stamina for challenging work; he feels like he fits this job well. 
+On a daily basis, the sales team interacts with a lot of cross-functional stakeholders. The sales team needs to talk to the marketing team, salespeople, engineers, product managers, and even the C-class ITDMs (Information technology decision-makers). The sales team serves as a composer in an orchestra to increase company sales revenue. 
+From the interviewee’s perspective, one of the greatest perks of being on a sales team is the opportunities you get to interact with people from various departments. Not only do you get an insider’s view of what they work on, but your network grows exponentially really quickly.
+
+<hr>
+
+### My Personal Notes
+My Personal Notes
+In Japanese culture, when we speak to people who are older than us, we use ‘Keigo’, formal Japanese. From the beginning of this interview, this interviewee casually told me to not use Keigo, and to speak in casual Japanese. I noticed how much he made an effort to make me feel comfortable in the interview, despite him being the interviewee. 
+Toward the end of the interview, I asked, _what is your definition of success?_ To which he responded,
+
+***The fact that you can be happy.***
+
+He noted that his happiness at work and college (we are from the same college) is largely due to the psychological safety the community strives to maintain. Diversity and inclusion are still a work in progress globally, but particularly in Japan. Success comes from happy employees, and the happiness of individuals comes from having psychological safety. It is up to the team and leadership to build that safety in the workplace.  
