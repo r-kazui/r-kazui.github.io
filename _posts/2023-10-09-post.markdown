@@ -1,0 +1,82 @@
+---
+layout:     post
+title:      "12/100 Interviews: Talent, Big Tech, Maternity Leave"
+description: "Right after college, she entered the big tech world, first landing a job in sales, gradually paving her path in talent, and is now in talent engagement. She saw the great shift in new grad hiring during covid as she was responsible for recruitment. She is on maternity leave at the point of this interview, and I had the privilege of asking her what her experience has been like taking maternity leave in Japan. 
+I have kept her identity anonymous for privacy reasons. 
+
+TLDR;
+* Covid-19 and the shift to online made job-seeking for fresh grads more inclusive because the limitations caused by transportation and in-person internships were eliminated
+* Shifts in the supply of fresh grads caused companies to drastically change hiring policies and quotas
+* Only 14% of fathers in Japan take paternity leave despite Japan’s policies for paternity leave being the most generous internationally "
+
+date:       2023-10-09 17:00:00
+author:     "Risa Kazui"
+header-img: assets/img/posts/header-img/minako.png
+
+categories:
+  - Tips/Tricks
+---
+Right after college, she entered the big tech world, first landing a job in sales, gradually paving her path in talent, and is now in talent engagement. She saw the great shift in new grad hiring during covid as she was responsible for recruitment. She is on maternity leave at the point of this interview, and I had the privilege of asking her what her experience has been like taking maternity leave in Japan. 
+I have kept her identity anonymous for privacy reasons.
+
+```
+TLDR;
+* Covid-19 and the shift to online made job-seeking for fresh grads more inclusive because the limitations caused by transportation and in-person internships were eliminated
+
+* Shifts in the supply of fresh grads caused companies to drastically change hiring policies and quotas
+
+* Only 14% of fathers in Japan take paternity leave despite Japan’s policies for paternity leave being the most generous internationally
+```
+<hr>
+
+## Theme 1: New grad hiring in post-covid-19 Japan
+
+Her job was in talent acquisition for new grads when the pandemic hit, and she saw firsthand the great shift in new grad hiring in Japan. Here are her observations.
+
+Firstly, there were more opportunities for students. The supply of new grad applications increased exponentially because everything was online. The norm in previous years was to go to in-person job-seeking conferences or open days, and to secure internships or offers there. When such gathering opportunities were switched to online, students didn’t have to worry about the time cost (in Japan, companies often pick the same week so students have to prioritize one over the other), or transportation cost (there was a significant rise in students from rural universities applying to Tokyo companies). They could freely apply to wherever they wanted to. 
+The result of all this was a huge increase in the number of applications per student.
+
+However, while free-flowing opportunities do sound good, the reality is a bit different. The company offers were skewed since the same top students would fill out most of the slots in the top companies’ quotas - only the top students got more offers. This meant that there was an increase in offer declines on the company side.
+
+This leads to her second observation: Companies increased their quotas for new grads since they expected a higher number of offer declines. Thankfully her company given its reputation did not have to adjust since most offerees accept, but she saw middle-tier companies, especially those in traditional industries with big quotas such as manufacturing and consulting, suffer extensively in adjusting to this shift. 
+
+Her third observation was the shift in overall mindset that new grads had while job-seeking. She saw more focus on company values, such as sustainability and DEI. Many also asked about the benefits such as maternity leave, hybrid work, and even whether the company sends you desktops and ergonomic chairs. Gen Zs seem to value the work culture and environment more than the position itself.
+
+She emphasized the fact that new grads should enjoy the process. It is a once-in-a-lifetime experience, you are only a new grad hire once. Moreover, new grads should maximize both input and output during the process. Not only learn about the company but also take the time to verbalize what you want for yourself. Create output by explaining to your friends and family what you want - this is great practice for interviews too. 
+
+
+## Theme 2: Maternity Leave
+
+This interviewee is currently on maternity leave and is planning on taking a year off to focus on raising her child. She said because of the inclusive culture of her workplace, she was not hesitant about taking mat leave. Her company has a 100% return to work rate for women who take mat leave. Her partner also took paternity leave. However, she notes that in Japan it is still incredibly rare to hear about paternity leave as there is a strong norm that women should stay home and men should continue to work. Moreover, babysitting and nannies are still frowned upon as they require an outsider to enter the private home. 
+This experience made her wonder even more how the women in Japan stay home alone right after childbirth without their partners. 
+
+***“It takes a village to raise a child.”***
+
+<hr>
+
+### My Personal Notes
+My impression of Japan is that maternity leave is still incomparably more common than paternity leave. This can be shown in the graph below where in 2021, amongst the women who recently had a child, 85.1% took mat leave. Whereas for men, only 14.0% did. 
+
+
+However according to the OECD report, 
+*“In Japan, where fathers-only leave paid parental leave last for 52 weeks, parental leave benefits replace roughly 61% of previous gross earnings for an average earner. This produces a ‘full-rate equivalent’ father-specific leave equal to 31.9 weeks, which is by far the most generous paid father-specific entitlement in the OECD.”*
+
+
+Technically, Japan’s paternity leave policies are the second most generous in the world. There is even a policy for double-income households called “papa mama plus” where you can take leave till your child is 14 months old. Then why are 86% of fathers in Japan not taking pat leave?
+
+(Apologies to the only english readers but,) this chart is from the labor department in Japan. Here are some key facts on full-time men who chose not to take pat leave: 
+* 42.3% said because they did not want to burden their colleagues and workplace
+* 34% said because they did not want a decrease in income
+* 33.8% said because the workplace did not seem accepting of pat leave
+* 15.7% said it would affect their reputation from their surroundings
+
+
+Moreover, one out of four men has been treated unfairly or harassed because they took pat leave (mhlw 2022). The call this *“Pata-hara”* (paternity harassment). 
+It is still extremely rare in Japan to hear of fathers taking paternity leave. And it seems like despite the sophisticated top-down initiatives to encourage paternity leave, workplace and individual attitudes are still lagging, and are much to blame for the skewed mat and pat leave ratio in Japan. 
+The Japanese moms I see in the supermarket carrying bags of groceries while carrying a child, holding the hand of another toddler, and also pushing a trolley? Just wow. Personally, I would want my partner to take paternity leave. I can’t imagine how it must be to recover from childbirth while taking care of an infant. I truly hope more workplaces encourage leave for both moms and dads so that more children can have fully present parents when they most need them.
+
+<hr>
+links: https://www.jili.or.jp/lifeplan/lifeevent/799.html 
+https://www.oecd.org/els/soc/PF2_1_Parental_leave_systems.pdf 
+https://ashita.biglobe.co.jp/entry/2022/08/24/110000 
+https://www.mhlw.go.jp/content/11200000/000783140.pdf 
